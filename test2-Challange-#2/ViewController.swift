@@ -13,7 +13,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
     }
-
-
+    //MARK: - Новая-задача-номер-1
+    let  newZadacha1 = 0.1
 }
 
