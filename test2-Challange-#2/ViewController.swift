@@ -13,7 +13,8 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
     }
-
-
+    //MARK: - Новая-задача-номер-1 ЗАМЕНА НА ГОЛД
+    var  GOLD = String.self
+    
 }
 
